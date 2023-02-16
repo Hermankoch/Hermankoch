@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello World 👋 It's [Herman!]
 
-<!--
-**Hermankoch/Hermankoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+Hi,I'm Herman Koch🙌, a Web Developer with a passion for Laravel. Apart from that I love Problem Solving and cannot rest until something works the way I want it to.❤✌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 🔭 I’m currently working on a ecommerce platform built with Laravel
+- 🌱 I’m currently learning to incorporate more Vue.js.
+- 💬 Ask me about anything , Would love to answer them.✌
+- 📫 How to reach me: Twitter @KochHerman
+- ⚡ Check out my personal website https://hermankoch.co.za
+
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
